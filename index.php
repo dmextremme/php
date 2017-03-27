@@ -1,5 +1,7 @@
 <?php
 
- echo "Alteração Simples!!!"
+ echo "Conflito de alterações!"
+
+ echo "Deu merda?"
  
 ?>
