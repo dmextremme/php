@@ -2,6 +2,6 @@
 
  echo "Conflito de alterações!"
 
- echo "Deu merda?"
+ echo "Deu merda? Não."
   
 ?>
